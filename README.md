@@ -1,8 +1,8 @@
-<h2 align="center">Python🐍 </h1>
+<h2 align="center">Python🐍 </h2>
 <br />
 
 ---
 
-# :monocle_face: About
+# <h2> About </h2>
 Repository dedicated to the study of Python.
 <br />
