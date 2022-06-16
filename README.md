@@ -1,8 +1,7 @@
-<h2 align="center">Python🐍 </h2>
-<br />
+## Python🐍
+
+### About 
+Repository for Python coding exercises from [Udemy](https://www.udemy.com/course/100-days-of-code/) "The Complete Python Pro Bootcamp for 2022".
+
 
 ---
-
-# <h2> About </h2>
-Repository dedicated to the study of Python.
-<br />
